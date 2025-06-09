@@ -1,1 +1,1 @@
-# Projject-Planner
+# Project-Planner
